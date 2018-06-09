@@ -8,8 +8,8 @@
 #  Data:          09/06/2018
 #-----------------------------------------------------
 
-echo "Entrando no diretorio /usr/bin"
-cd /usr/bin
+echo "Entrando no diretorio bin"
+cd bin
 
 lstFiles=( "apropos -> whatis.exe" "awk -> gawk.exe" "bzcmp -> bzdiff" "bzegrep -> bzgrep" "bzfgrep -> bzgrep" "bzless -> bzmore"
             "dnsdomainname -> hostname.exe" "domainname -> hostname.exe" "ex -> vi.exe" "lrunzip -> lrzip.exe" "lrzcat -> lrzip.exe"
