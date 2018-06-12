@@ -1,2 +1,2 @@
 # shellscript
-Developing in Shell Script for process automation and other purposes!!!
+Developing in Shell Script for process automation and other purposes!
