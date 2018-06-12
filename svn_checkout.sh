@@ -8,7 +8,7 @@
 #-----------------------------------------------------
 
 echo " *** "
-echo " *** SVN Checkout OpenSSL for Linux "
+echo " *** SVN Checkout OpenSSL for Linux... "
 echo " *** "
 
 URL_SVN=https://code.totvs.com:8443/svn/totvstec-libraries/third_libraries/openssl/1.0.2/source/openssl-1.0.2o
